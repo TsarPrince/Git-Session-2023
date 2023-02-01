@@ -12,7 +12,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  4
 - [ ]  5
 - [ ]  6
-- [ ]  7
+- [Y]  7
 - [ ]  8
 - [ ]  9
 - [ ]  10
