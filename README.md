@@ -99,7 +99,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  29
 - [ ]  30
 - [ ]  31
-- [ ]  32
+- [x]  32
 - [ ]  33
 - [ ]  34
 - [ ]  35
