@@ -159,7 +159,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  27
 - [ ]  28
 - [ ]  29
-- [ ]  30
+- [x]  30
 - [ ]  31
 - [ ]  32
 - [ ]  33
