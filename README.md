@@ -57,7 +57,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  49
 - [ ]  50
 - [ ]  51
-- [ ]  52
+- [X]  52
 - [ ]  53
 - [ ]  54
 - [ ]  55
