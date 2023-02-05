@@ -6,7 +6,7 @@ Create a file named `<your_roll_number-your_name>.<ext>` (can be cpp, py, md, c,
 Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your roll number in your PR
 
 ## IT
-- [ ]  1
+- [x]  1
 - [ ]  2
 - [ ]  3
 - [ ]  4
